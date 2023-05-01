@@ -67,7 +67,7 @@ https://fullstackopen.com/en/
 - Class components, Misccellaneous
 - Extending the bloglist
 
-### [Part 8: GraphQL]
+### Part 8: GraphQL
 
 - GraphQL-server
 - React and GraphQL
